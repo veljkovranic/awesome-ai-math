@@ -20,6 +20,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Logical Intelligence](https://www.logicalintelligence.com/) – Long-term projects around machine-assisted mathematics.
 - [ByteDance / Seed Prover](https://github.com/ByteDance-Seed/Seed-Prover) - ByteDance's model for AI Math
 
+- [X list of AI Math companies](https://x.com/i/lists/1996925751082303605)
+  
 ### Open-source systems
 
 - [Goedel-Prover-V2](https://github.com/Goedel-LM/Goedel-Prover-V2) – Large language model for theorem proving.
