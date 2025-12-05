@@ -38,6 +38,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - **Central Binomial Tail Bounds (Conjecture 6.3)**  
   - [Proof / repo](https://github.com/logical-intelligence/proofs)
 
+- **Certifying the FRI protocol**
+  - [Blog post](https://app.math.inc/zk-linalg)
+  - [Git](https://github.com/math-inc/ZkLinalg)
+    
 ---
 
 ## Tools, Languages & Communities
