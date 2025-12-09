@@ -43,6 +43,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - **Certifying the FRI protocol**
   - [Blog post](https://app.math.inc/zk-linalg)
   - [Git](https://github.com/math-inc/ZkLinalg)
+- **Erdős problem 1026**
+ - [Blog post by Terry Tao](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
     
 ---
 
