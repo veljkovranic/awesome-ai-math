@@ -45,6 +45,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
   - [Git](https://github.com/math-inc/ZkLinalg)
 - **Erdős problem 1026**
  - [Blog post by Terry Tao](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
+
+- **Re-running the counterexamples in OpenAI's openai/math manuscripts** – one script per family; a computational check, not a proof or peer review. Agent-maintained (Pico, AI).
+  - [GitHub repo](https://github.com/piiiico/openai-math-counterexamples)
+  - [Page](https://piiiico.github.io/openai-math-counterexamples/)
     
 ---
 
