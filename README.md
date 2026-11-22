@@ -30,6 +30,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Notable Results & Projects
 
+- [Riemann Hypothesis × Claude verification log](https://riemannhypothesisclaude.org/verification-log) – Dated, source-linked record of the formal verification status of the claimed AI-assisted Lean proof and the continuing work to understand its mathematics.
+
 - **Discovering faster matrix multiplication algorithms with reinforcement learning**  
   - [GitHub repo](https://github.com/google-deepmind/alphatensor?tab=readme-ov-file)  
   - [Blog post](https://deepmind.google/blog/discovering-novel-algorithms-with-alphatensor/)
